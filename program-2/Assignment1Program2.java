@@ -6,7 +6,7 @@ public class Assignment1Program2 {
 
         System.out.println("Base Conversion Program\n");
 
-        System.out.print("Please enter a base (2 - 9): ");
+        System.out.print("Please enter a base (2 – 9): ");
         int base = scanner.nextInt();
 
         // Calculate largest 4-digit number in base 10: base^4 - 1
